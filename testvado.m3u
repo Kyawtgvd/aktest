@@ -1,75 +1,31 @@
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png", ON Sports HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg", Champions Tv 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6685
+https://4utv.my.id/vd/dash.mpd?id=6685|User-Agent=mozilla/89
 
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-6.png", ON Sports+
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg", Champions Tv 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6686
+https://4utv.my.id/vd/dash.mpd?id=6686|User-Agent=mozilla/89
 
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png", ON Football HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg", Champions Tv 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6786
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://4utv.my.id/vd/dash.mpd?id=6786|User-Agent=mozilla/89
 
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png", ON Football
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://api.wintv.me/vtvcab16/index.m3u8
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions Tv 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vidioh/drm.php?id=9182
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://tch.qtv.my.id/chamtv5.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/s-premier-fooball-1.png", Premier Football 1
-https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/s-premier-fooball-2.png", Premier Football 2
-https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/s-premier-fooball-3.png", Premier Football 3
-https://edge2.laotv.la/live/TSport3/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/s-premier-fooball-4.png", Premier Football 4
-#https://edge2.laotv.la/live/TSport4/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/s-premier-fooball-5.png", Premier Football 5
-#https://edge2.laotv.la/live/TSport5/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/q0tj5n1631279235.png", DAZN Bein Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"z7XitzvvTzyHjyWrhqdFHw","k":"DWcSvyqE7cyT0AGpYT9v7A"}]}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png", Bein Sports 1 EN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-039/stream.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png", Bein Sports 2 EN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-040/stream.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/v1x7jc1631279259.png", Bein Sports 3 EN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-041/stream.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/v1x7jc1631279259.png", Bein Sports 3 EN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-042/stream.mpd
-
-
-
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo.png", HBO (Sg)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-hits.png", HBO Hits (Sg)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-family.png", HBO Family (Sg)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-hbo-signature.png", HBO Signature (Sg)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://tchiphuong.github.io/iptv/images/bg/nn-cinemax.png", Cinemax (Sg)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions Tv 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vidioh/drm.php?id=9183
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://tch.qtv.my.id/chamtv6.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 
 
