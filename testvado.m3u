@@ -1,0 +1,232 @@
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (carmel)
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/56371
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png", K+ Sport 1 (edge)
+https://edge2.laotv.la/live/K+Sport1/index.m3u8
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-2-vn.png", K+ Sport 2 (edge)
+https://edge1.laotv.la/live/K+Sport2/index.m3u8
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
+#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (home)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+
+
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 1 (1)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
+https://linear013-ie-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_mob.mpd
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 1 (2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
+https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_mob.mpd
+
+#EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
+https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_mob.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sport", Sony TEN 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sport", Sony TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="Sport", Sony TEN 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="Sport", Sony TEN 4
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sport", Sony TEN 5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-22/6585649a9db1d.jpg" group-title="MOVIES", Moscow Mission (2023)
+http://www.zegomovie.com/Videos/MoscowMission23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-21/6583eab7c53dd.jpg" group-title="MOVIES", The Four Feathers (2002)
+http://www.zegomovie.com/Videos/TheFourFeathers02/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-19/6581590c2fbaf.jpg" group-title="MOVIES", Valhalla Rising (2009)
+http://www.zegomovie.com/Videos/ValhallaRising09/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-19/658140b25bc9d.jpg" group-title="MOVIES", Showdown at The Grand (2023)
+http://www.zegomovie.com/Videos/ShowdownatTheGrand23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c329b475b.jpg" group-title="MOVIES", Heavens Seven (2002)
+http://www.zegomovie.com/Videos/HeavensSeven02/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576c2bb4f191.jpg" group-title="MOVIES", Heavens Seven 2 (2005)
+http://www.zegomovie.com/Videos/HeavensSeven205/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-23/63cdf8a9860e1.png" group-title="MOVIES", Mission Majnu (2023)
+http://www.zegomovie.com/Videos/MissionMajnu/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-24/65602a3fbdd1e.jpg" group-title="MOVIES", The Salvation (2014)
+http://www.zegomovie.com/Videos/TheSalvation14/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-16/6555e88f773bb.jpg" group-title="MOVIES", Quan Dao:The Journey of a Boxer (2020)
+http://www.zegomovie.com/Videos/QuanDaoTheJourneyofaBoxer20/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-14/65534215e5734.jpg" group-title="MOVIES", Raja Marthanda (2023)
+http://www.zegomovie.com/Videos/RajaMarthanda23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-02/65434c1135afc.jpg" group-title="MOVIES", The Five Venoms (1978)
+http://www.zegomovie.com/Videos/TheFiveVenoms78/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-13/6528ea2d971cf.jpg" group-title="MOVIES", Mark Antony (2023)
+http://www.zegomovie.com/Videos/MarkAntony23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-17/5d0737b09d687.jpg" group-title="MOVIES", TheLegend II (1993)
+http://www.zegomovie.com/Videos/TheLegendII/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-09/65236c2c4566c.png" group-title="MOVIES", Blood on the Nameless River (2023)
+http://www.zegomovie.com/Videos/BloodontheNamelessRiver23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-30/6517e9b2674a9.png" group-title="MOVIES", Raid On The Lethal Zone (2023)
+http://www.zegomovie.com/Videos/RaidOnTheLethalZone23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-26/65125b6ea3cb1.jpg" group-title="MOVIES", RDX:Malaya (2023)
+http://www.zegomovie.com/Videos/RDX23Malaya/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-05-30/5cefb6423997f.jpg" group-title="MOVIES", Flying Swords of Dragon Gate (2011)
+http://www.zegomovie.com/Videos/FlyingSwordsofDragonGate/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-15/5d046fdf0de21.jpg" group-title="MOVIES", My Father is Hero (1995)
+http://www.zegomovie.com/Videos/MyFatherIsHero/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-26/64e9bc17eb313.png" group-title="MOVIES", BRO (2023)
+http://www.zegomovie.com/Videos/BRO23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-25/64e86c7a33b4f.png" group-title="MOVIES", Rangabali (2023)
+http://www.zegomovie.com/Videos/Rangabali23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-21/64e310e890e1e.png" group-title="MOVIES", Shamshera (2022)
+http://www.zegomovie.com/Videos/Shamshera/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-22/64e43f3869a0f.png" group-title="MOVIES", Thalainagaram (2023)
+http://www.zegomovie.com/Videos/Thalainagaram223/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-21/64e33dba0bbe3.png" group-title="MOVIES", Kolai (2023)
+http://www.zegomovie.com/Videos/Kolai23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-10/63bd0d46d887e.jpg" group-title="MOVIES", Black (2022)
+http://www.zegomovie.com/Videos/Black/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-21/6583e5e1c7966.jpg" group-title="MOVIES", Tagarupalya (2023)
+http://www.zegomovie.com/Videos/Tagarupalya23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-05/5cf749c601060.jpg" group-title="MOVIES", Billa2 (2012)
+http://www.zegomovie.com/Videos/Billa2/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-05-06/6455cc508bddc.png" group-title="MOVIES", Gurudev Hoysala (2023)
+http://www.zegomovie.com/Videos/GurudevHoysala/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2022-04-23/626382b8f06c1.jpg" group-title="MOVIES", BachchhanPaandey (2022)
+http://www.zegomovie.com/Videos/BachchhanPaandey/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-10/5cfdddcdac6d4.jpg" group-title="MOVIES", Tevar (2015)
+http://www.zegomovie.com/Videos/Tevar/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-22/655dc47589ee3.jpg" group-title="MOVIES", Chatrapathi (2023)
+http://www.zegomovie.com/Videos/ChatrapathiForthePeople23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-12/5d00ebc94c650.jpg" group-title="MOVIES", Touch Chesi Chudu (2018)
+http://www.zegomovie.com/Videos/touchchesichudu/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2020-07-02/5efd8dd3c472a.jpg" group-title="MOVIES", RUN (2020)
+http://www.zegomovie.com/Videos/Run/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-16/64dc506280869.png" group-title="MOVIES", Maayon (2022)
+http://www.zegomovie.com/Videos/Maayon22/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-15/64db394367d50.jpg" group-title="MOVIES", Rakshak Indias Braves (2023)
+http://www.zegomovie.com/Videos/RakshakIndiasBraves23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d0b68026dd6.png" group-title="MOVIES", Purusha Pretham (2023)
+http://www.zegomovie.com/Videos/PurushaPretham23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-11/6576901dd9b65.jpg" group-title="MOVIES", Leave the World Behind (2023)
+http://www.zegomovie.com/Videos/LeavetheWorldBehind23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d0aa6cc5d3e.png" group-title="MOVIES", Rudrangi (2023)
+http://www.zegomovie.com/Videos/Rudrangi23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d0964b55c2b.png" group-title="MOVIES", Medal (2023)
+http://www.zegomovie.com/Videos/Medal23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d06ef8a3b0b.png" group-title="MOVIES", Sher Shivraj (2022)
+http://www.zegomovie.com/Videos/SherShivraj22/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d068fbe134c.png" group-title="MOVIES", Spy (2023)
+http://www.zegomovie.com/Videos/Spy23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-08-07/64d05fb74f731.png" group-title="MOVIES", Paayum Oli Nee Yenakku (2023)
+http://www.zegomovie.com/Videos/PaayumOliNeeYenakku23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2019-06-26/5d131e0554eb0.jpg" group-title="MOVIES", Sarkar (2018)
+http://www.zegomovie.com/Videos/Sarkar/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-25/651117e1a2df8.png" group-title="MOVIES", Gandeevadhari Arjuna (2023)
+http://www.zegomovie.com/Videos/GandeevadhariArjuna23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-09/654c5b1ca7a57.jpg" group-title="MOVIES", Valatty (2023)
+http://www.zegomovie.com/Videos/Valatty23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-23/650e764eaeaed.jpg" group-title="MOVIES", Bedurulanka (2012)
+http://www.zegomovie.com/Videos/Bedurulanka2012/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-16/6505332835c21.jpg" group-title="MOVIES", Ramabanam (2023)
+http://www.zegomovie.com/Videos/Ramabanam23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-18/655845ebddfde.jpg" group-title="MOVIES", Ghost (2023)
+http://www.zegomovie.com/Videos/Ghost23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-13/6579689b1914b.jpg" group-title="MOVIES", Iron Mask (2023)
+http://www.zegomovie.com/Videos/IRONMASK23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-01-28/63d4e8e1445b3.png" group-title="MOVIES", Ninja || (2013)
+http://www.zegomovie.com/Videos/Ninja/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-09-01/64f170bb2b4b5.png" group-title="MOVIES", The Three Musketeers: DArtagnan (2023)
+http://www.zegomovie.com/Videos/TheThreeMusketeersDArtagnan23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-10/654e0ab19450f.png" group-title="MOVIES", Pippa (2023)
+http://www.zegomovie.com/Videos/Pippa23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-04/6545d4954107a.jpg" group-title="MOVIES", Raththam (2023)
+http://www.zegomovie.com/Videos/Raththam23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-27/653b6e46c3e61.png" group-title="MOVIES", I killed Bapu (2023)
+http://www.zegomovie.com/Videos/IKilledBapu/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-26/653a3d45394f1.png" group-title="MOVIES", Case 30 (2023)
+http://www.zegomovie.com/Videos/Case3023/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-16/652ce5cee9c88.jpg" group-title="MOVIES", Kasargold (2023)
+http://www.zegomovie.com/Videos/Kasargold23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-10-23/6536466bb340b.jpg" group-title="MOVIES", Thudikkum Karangal (2023)
+http://www.zegomovie.com/Videos/ThudikkumKarangal23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-06/656ff98366baa.jpg" group-title="MOVIES", Mariam (2023)
+http://www.zegomovie.com/Videos/Mariam22/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-24/6560291c4d4f0.jpg" group-title="MOVIES", Aarya 2 (2009)
+http://www.zegomovie.com/Videos/Arya209/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-28/6565c19696ee3.jpg" group-title="MOVIES", Detective Karthik (2023)
+http://www.zegomovie.com/Videos/DetectiveKarthik23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-23/655eccd414299.jpg" group-title="MOVIES", Hadik (2023)
+http://www.zegomovie.com/Videos/Hadik23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-11-30/6568145eefcf9.jpg" group-title="MOVIES", Dahanam (2023)
+http://www.zegomovie.com/Videos/Dahanam23/index.m3u8
+#EXTINF:-1 tvg-logo="http://zegomovie.com/Uploads/vod/2023-12-06/657031cda8f13.jpg" group-title="MOVIES", The Legend of Detective Sleek (2016)
+http://www.zegomovie.com/Videos/Rat1TheBloodyCity16/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRjZWRkODUtYTZiZi00YzIzLWJmNzEtMjk4MWI2YmZlMjNmXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Night Raiders (2021)
+http://www.zegomovie.com/Videos/NightRaiders/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh9znC5ilK9nTkELO7GZGUpIkHwAy8BEkHw&usqp=CAU" group-title="MOVIES", Red Notice (2021)
+http://www.zegomovie.com/Videos/RedNotice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMhDRZBUo9-N8x0-P2be1O1g6CqCTOhfOvg&usqp=CAU" group-title="MOVIES", No Time to Die (2021)
+http://www.zegomovie.com/Videos/NoTimetoDie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Venom2 (2021)
+http://www.zegomovie.com:80/Videos/Venom2/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QRNwOyJHEzctOjrtXptEHObJPDzjvi6jjg&usqp=CAU" group-title="MOVIES", Raging Fire (2021)
+http://www.zegomovie.com:80/Videos/RagingFire/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhZWEyMzEtNmI1ZC00MDEzLThjZjItM2ViZjBkNjU0ZWQyXkEyXkFqcGdeQXVyMTMwMjc2MjI1._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Flight (2021)
+http://www.zegomovie.com:80/Videos/Flight/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE4ZmEwOWMtNmZkZi00NjU3LTg1NmQtODQ1NDA1YTI2MDAyXkEyXkFqcGdeQXVyMjQxNzY5NTc@._V1_.jpg" group-title="MOVIES", Show Me the Ghost (2021)
+http://www.zegomovie.com:80/Videos/ShowMetheGhost/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4MTFiNzctY2RmOC00YzBkLTgzNTYtZGE4NDdjOWVjNGY5XkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Strong Hold (2021)
+http://www.zegomovie.com:80/Videos/TheStronghold/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="MOVIES", Free Guy (2021)
+http://www.zegomovie.com:80/Videos/FreeGuy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwYTQxZWEtYzAwNy00NmM4LWE4MDUtYTU5ZTVmYjY4ZTAwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MOVIES", Bell Bottom (2021)
+http://www.zegomovie.com:80/Videos/BellBottom/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/EWd7m_4c.jpg?v=1" group-title="MOVIES", Break Through (2021)
+http://www.zegomovie.com:80/Videos/BreakThrough/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Medium (2021)
+http://www.zegomovie.com:80/Videos/TheMedium/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRlYjY4MjYtODlkNS00OWUxLWI3YzgtZTIzZGU0ZGE5ODMzXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg" group-title="MOVIES", Kaadan (2021)
+http://www.zegomovie.com:80/Videos/Kaadan/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNDRmNTktYWY1Ny00ODE4LTk5MjEtNGQ4OWFmZDZlZTVlXkEyXkFqcGdeQXVyMTEwODEzNTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Sink Hole (2021)
+http://www.zegomovie.com/Videos/Sinkhole/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="MOVIES", The Card Counter (2021)
+http://www.zegomovie.com/Videos/TheCardCounter/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Night Book (2021)
+http://www.zegomovie.com/Videos/Nightbooks/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="MOVIES", Paw Patrol (2021)
+http://www.zegomovie.com/Videos/PAWPatrolTheMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ2MTQ3ZjQtZmRjMS00ZDJmLTlkYWQtOWVhODllYjJiNGUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Protege (2021)
+http://www.zegomovie.com/Videos/TheProtege/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZlNGYyOTYtZDVjOS00MTIyLThiMWItOTViYTcxYmNjMWY4XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", The Rebal of PT-218 (2021)
+http://www.zegomovie.com/Videos/TheRebelsofPT218/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJmMzYyN2ItMzU0NS00MmYyLWI0ZDQtMjFmMWJkYWQ2YjYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Sherni (2021)
+http://www.zegomovie.com/Videos/Sherni/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo5ROKwqLj_koDNtcbOveEDQp7Ck2h92pCg&usqp=CAU" group-title="MOVIES", Bhoot Police (2021)
+http://www.zegomovie.com/Videos/BhootPolice/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hlO0OixxRfRas8a-Dk6p3QLejXbfHZE4jg&usqp=CAU" group-title="MOVIES", Tuck Jagadish (2021)
+http://www.zegomovie.com/Videos/TuckJagadish/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSme9OsGV6PwkTNqLepLNNQY01_gnFbPL7L2g&usqp=CAU" group-title="MOVIES", Kate (2022)
+http://www.zegomovie.com/Videos/Kate/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NzQwMzQyMF5BMl5BanBnXkFtZTgwNzkzODk2ODE@._V1_.jpg" group-title="MOVIES", Pele (2021)
+http://www.zegomovie.com/Videos/Pele/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE5NGU5N2UtYWEyNi00ZmEyLTk0MWQtYWZiZjZhM2MxMWNiXkEyXkFqcGdeQXVyNDcyMjA4MTA@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES", Ready or Knot (2021)
+http://www.zegomovie.com/Videos/ReadyorNot/index.m3u8
+
