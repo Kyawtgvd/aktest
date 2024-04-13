@@ -1,3 +1,30 @@
+#EXTINF:-1 group-title="Test movies" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png", HBO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="Test movies" tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="Test movies" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="Test movies" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 group-title="Test movies" tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
 #EXTINF:-1 group-title="Test Sports" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg", Champions Tv 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6685
@@ -29,24 +56,24 @@ https://tch.qtv.my.id/chamtv6.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 
 
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (carmel)
+#EXTINF:-1 group-title="Test" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1 (carmel)
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/56371
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png", K+ Sport 1 (edge)
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png", K+ Sport 1 (edge)
 https://edge2.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-2-vn.png", K+ Sport 2 (edge)
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-2-vn.png", K+ Sport 2 (edge)
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 1 (home)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 2 (home)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 3 (home)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
-#EXTINF:-1 group-title="Test Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213", Astro Supersport 4 (home)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", C sport 1
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNvRqvE2BrfNdHxgfN24GBI/ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", C sport 2
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdOT-Z2isAvVvEOrtsuSUjvw/ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mttv-mm.png", S sport
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdKDS4lop_u7872gbzz6Fv5w/ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png", Zee Cinema (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdIIBF1S5sNqxeqJmpvvz_N0/ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-net-action-movies-mm.png", Rock Action (M-Sub)
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdEIjy7gUY62hBcuRkobkklk/ts
+#EXTINF:-1 group-title="Test" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel (M-sub)
+http://ctrl.laotv.la/live/Discovery/index.m3u8
 
 
 
