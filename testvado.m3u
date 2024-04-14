@@ -1,3 +1,45 @@
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", DAZN Bein Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+https://1.yurend.xyz/dash-wv/linear/2304/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+https://1.yurend.xyz/dash-wv/linear/5055/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+https://1.yurend.xyz/dash-wv/linear/5053/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+https://1.yurend.xyz/dash-wv/linear/603/default_primary.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png", Star Sports Select 1
+https://raw.githubusercontent.com/Arrasyid22/sportasia/main/starsportselect1.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png", Star Sports Select 2
+https://raw.githubusercontent.com/Arrasyid22/sportasia/main/starsportselect2.m3u8
+
+
+
 #EXTINF:-1 group-title="TNT SPORTS" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 1 (1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
