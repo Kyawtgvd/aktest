@@ -1,64 +1,105 @@
-#EXTINF:-1 group-title="Test" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg", Star Sports Select 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
-https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 11
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU", UCL Live 12
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl12.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/Star-Sports-AMP-Logo.jpg", Star Sports Select 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
-https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl10.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 11
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl11.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", EPL Live 12
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/epl12.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", Optus 1
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU", Optus 2
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus2.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png", Arena Bola
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png", LALIGA Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/laliga5.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png", Arena Bola 2
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali8.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 9
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali9.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU", SERIE A Live 10
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/ligaitali10.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", ESPN 1 ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", ESPN 2 ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", ESPN 3 ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/espn3/output.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", FOX SPORT ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport/output.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", FOX SPORT 2 ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SoMAxYR6LAARUeiME9sf8jLcZK5FPCH-tg&usqp=CAU", FOX SPORT 3 ARG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://ixp-nqn.origin.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 1
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga1.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 2
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga2.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 3
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga3.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 4
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga4.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 5
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga5.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 6
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga6.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 7
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga7.m3u8
+#EXTINF:-1 group-title="Live Soccer Event⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10", BUNDESLIGA Live 8
+https://raw.githubusercontent.com/Arrasyid22/sportlive/main/bundesliga8.m3u8
 
 
 
