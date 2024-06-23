@@ -1,17 +1,17 @@
 #EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 1
-#EXTHTTP: #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SXRXK3JUL01WT0hDVmpudDZweUgzT0E9PQ==
 
 #EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 2
-#EXTHTTP: #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SU9OdlBmeWZhcDBaNmh0bWhkL01DVWc9PQ==
 
 #EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 3 
-#EXTHTTP: #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
 https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SVJScms2MFZWZzNJbGN5N1ZISkEwcUE9PQ==
