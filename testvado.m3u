@@ -1,23 +1,3 @@
-#EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SXRXK3JUL01WT0hDVmpudDZweUgzT0E9PQ==
-
-#EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SU9OdlBmeWZhcDBaNmh0bWhkL01DVWc9PQ==
-
-#EXTINF:-1 group-title="Arena Sport Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DqUZ25_q40JE_bcsr8WhQitY9bRUGd8FqA&usqp=CAU", Arena Premium 3 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d 
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NDlhV21sei9WK3dRVE93VHFFbzlGbHZpSGI2eHpuUW5Za1BoSTRidFlNODdIVmxvc2QxNGZKZUNBQkxwbmd1SVJScms2MFZWZzNJbGN5N1ZISkEwcUE9PQ==
-
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HubPremier2-FHD
@@ -158,19 +138,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sony Sport", Sony TEN 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sony Sport", Sony TEN 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="Sony Sport", Sony TEN 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="Sony Sport", Sony TEN 4
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sony Sport", Sony TEN 5
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
 
