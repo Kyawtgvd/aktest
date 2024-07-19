@@ -1,11 +1,40 @@
-#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HubPremier1-FHD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png", HubPremier2-FHD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png", HubPremier3-FHD
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PD1qeRO.jpg", USA_NetWork-FHD
-https://7pal.short.gy/usanetwork
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", LOVE NATURE 4K 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/400px-BBC_Earth_2023.svg.png", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4", ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png", DISCOVERY HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png", DISCOVERY ASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png", HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png", GLOBAL TREKKER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png", NowSports_PremierLeague1-FHD
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png", NowSports_PremierLeague2-FHD
@@ -20,22 +49,6 @@ https://7pal.short.gy/skyspt2nz
 https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png", SkySport4_NZ-FHD
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png", SkySport8-PremierLeague_NZ-FHD
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 group-title="Sports" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", Fox502_AU-FHD
-https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/6/6551.1489224386.png", Fox503_AU-FHD
-https://7pal.short.gy/fox503au
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro_Supersport1_MY-FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro_Supersport2_MY-FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro_Supersport3_MY-FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro_Supersport4_MY-FHD
-https://7pal.short.gy/astross4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png", Supersport_Football-FHD
 https://7pal.short.gy/sperspfb
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png", Supersport_Laliga-FHD
@@ -56,76 +69,26 @@ https://7pal.short.gy/spersptns
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png", Sportsnet 360
 https://7pal.short.gy/sptsnet360
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PD1qeRO.jpg", USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uo7pHjF.png", CBS_Sport_Network
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg", USA:MSG
-https://7pal.short.gy/msgusa
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XKBiWym.jpg", USA:NFL_Network-FHD
 https://7pal.short.gy/nflnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png", USA:NHL_Network
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png", USA:MLB_Network
+https://7pal.short.gy/mlbnw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png", USA:WWE_Network
+https://7pal.short.gy/wwenw
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/OLFLQi1.jpg", USA:MSG
+https://7pal.short.gy/msgusa
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qAT0jSA.png", USA:NBA_TV
+https://7pal.short.gy/nbatvus
 #EXTINF:-1 group-title="Sports" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", USA:ESPN-HD
 https://7pal.short.gy/espnus
 #EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg", USA:ESPN2-HD
 https://7pal.short.gy/espn2
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Nq4lPP4.png", USA:WWE_Network
-https://7pal.short.gy/wwenw
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qAT0jSA.png", USA:NBA_TV
-https://7pal.short.gy/nbatvus
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZGrahiw.png", USA:MLB_Network
-https://7pal.short.gy/mlbnw
-#EXTINF:-1 group-title="Sports" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/lhum6z3hyaga9ahnjow0.png", USA:NHL_Network
-https://7pal.short.gy/nhlnw
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png", USA:UFC_24/7
-https://7pal.short.gy/ufc247
-
-
-
-#EXTINF:-1 group-title="Test",premiere 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
-
-#EXTINF:-1 group-title="Test",premiere 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
 
 
