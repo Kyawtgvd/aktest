@@ -1,3 +1,293 @@
+#EXTINF:-1 tvg-logo=" " group-title="Supersport", Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Golf_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Supersport",Supersport Blitz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Blitz_Live_TV/tracks-v1a1/mono.m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 01
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a9ba0c413994882a487461c73361c73:ce2231d461355a4b7a28c2a17f01144b
+https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 02
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6b60d4db6f046ebb800b90bd9d08ad3:6d1594f639ea5de668ba41a191d1c215
+https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 03
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
+https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 04
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b05bcb11f664736993fd5c7ddc0a0cf:d1f6705e028f81615221b6a7da2c91ae
+https://mwmpos04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 05
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60d21f9bd2bc4def81b7196a4f375bbd:5abae0e3b5bd439cc387a526a0eba70d
+https://mwmpos03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 06
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3d1cabc9bac4bb7854f7a98abee21b2:38b942982bfaa38cd031a656ab0c8f3c
+https://mwmpos01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 07
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c63eb5f8b141426bbd533073b3417650:a1f328dd9ec6e9aba76c3575e16f2607
+https://mwmpos02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 08
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e359554fdae4c679b05cdbb12d60485:fda345af49cfe9787ffee91a6004a3d5
+https://mwmpos03.akamaized.net/out/v1/757f68f7d04b464d8ba433865b04adcd/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 09
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98548f126bcb4505a47d40133ac7d0ed:1446543ce3d62ef08d0c1eada2e7800a
+https://mwmpos02.akamaized.net/out/v1/c7968554079946679615c275e0e5d155/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f743a53a4ccf48729dcf8f20e6c878b3:1a2eeaf2193ec8a3dbd667450e4ff5d0
+https://mwmpos02.akamaized.net/out/v1/ff22f8d0966549a595ef1b32536a7044/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 11
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
+https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
+https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=508fec8751214a0191b2b46c97f891bf:bd72f87ff911cae70bda9e30d3a06f7e
+https://mwmpos02.akamaized.net/out/v1/abd629d1565f47dab234e85f5ce2a6b7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 14
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
+https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fpYh-A1K5tPZSoTN7IFVc9hXXR4c-nURvsJ0Bk89Ff62t8ifRGQ6OGnS&s=10" group-title="# OLYMPIC PARIS 2024 #",Olympic Paris 2024 15
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa1eff439479479fbed78ca86c92c40f:0717e702dcb29983cfaa74a88ae22637
+https://mwmpos03.akamaized.net/out/v1/4987288922884ee581e31c09d9d3432f/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png",805 Astro Supersport UHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport1.my" ch-number="811" tvg-name="Astro SuperSport HD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://iili.io/JLHfSl1.png", 811 Astro SuperSport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UZzFORGRoT0RNdFpXUTVOeTAwTmpObExXRTJZVGd0WVRSbVpEWXpZakJtWldWaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTE2NjE0NywiaWF0IjoxNzIwNTYyMTQ3fQ.u6K5fXNYH3wzydETSA1zKa4U8XnkId4lu6b4t13cWv0"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="812" tvg-name="Astro SuperSport 2 HD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://iili.io/JLHfkiB.png", 812 Astro SuperSport 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UZzFORGRoT0RNdFpXUTVOeTAwTmpObExXRTJZVGd0WVRSbVpEWXpZakJtWldWaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTE2NjE0NywiaWF0IjoxNzIwNTYyMTQ3fQ.u6K5fXNYH3wzydETSA1zKa4U8XnkId4lu6b4t13cWv0"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="813" tvg-name="Astro SuperSport 3 HD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://iili.io/JLHf8KP.png",813 Astro SuperSport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1UZzFORGRoT0RNdFpXUTVOeTAwTmpObExXRTJZVGd0WVRSbVpEWXpZakJtWldWaiIsIndtb3BpZCI6MzIsImV4cCI6MTcyMTE2NjE0NywiaWF0IjoxNzIwNTYyMTQ3fQ.u6K5fXNYH3wzydETSA1zKa4U8XnkId4lu6b4t13cWv0"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" ch-number="814" tvg-name="Astro SuperSport 4 HD" group-title="AstroIPTV" group-logo="https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png" tvg-logo="https://iili.io/JLHfUUF.png", 814 Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+
+
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Astro SuperSport 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+httpss://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Astro SuperSport 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
+httpss://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7PxwOQPIVXVg8JVXk_DvFk=-oZD/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+
+#EXTINF:-1 tvg-id="813.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Astro SuperSport 3  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ff90rhBkxfL7ANKZX6iJVQ", "kid":"yxiUWSXmXUEfu5htclMQEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",SuperSport 4  
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:-1 tvg-id="808.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Astro Supersport Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
+httpss://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+
+#EXTINF:-1 tvg-id="805.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSportUHD.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Astro UHD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
+httpss://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="811.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="" group-title="AA",Astro SuperSport 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="812.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-logo="" group-title="AA",Astro SuperSport 2  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="813.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-logo="" group-title="AA",Astro SuperSport 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-logo="h" group-title="AA",Astro Supersport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+
+
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ea1bc7ef2734fd2b17b399f1387ec3a:90ed1ac75cebed74e248d5cb3b5d5a61
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2abd9ff2cd494f829a607250746a1a08:879cc8e7a94e046b4ea77537ac2fe0ec
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e80b7ba129d45e48cbaa125fe3ff6c7:41f87d85c1f67987f13142e114325f66
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2f1372b26d4456d992c95ae9b343955:30ad56f390a93748ce36fb10000c90fb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51b16248ecb04eb8846117e07e0eb92c:9335e6e5cbfd0ea1449f136bc5849782
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EUROSPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08913e2259ad455b9f6b73c8a1e08e1a:c4b852be090bd8dcec65b8793e8247d7
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e64178c33e4185a3406d84252cd7a0:3bedd0bcd11756016c9a3ccbe79f6665
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="🇲🇾 SPORTS (ASTRO GO) - VPN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", Astro Supersport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+
+
+
 #EXTINF:-1 group-title="Euro 2024" tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png", Rush Sport 🇿🇦
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
